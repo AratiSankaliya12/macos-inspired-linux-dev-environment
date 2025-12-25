@@ -5,6 +5,18 @@ Most people customize Linux. Very few engineer it.
 This project shows how I designed a macOS-inspired Ubuntu developer environment by making deliberate trade-offs between performance, stability, UX, and system safety.
 
 ---
+## Preview
+
+### Desktop
+<img width="1920" height="1080" alt="Desktop" src="https://github.com/user-attachments/assets/75442437-27fd-4e50-b53e-a4b550db0b29" />
+
+### Transperent Terminal
+<img width="1920" height="1080" alt="Transperent Terminal" src="https://github.com/user-attachments/assets/d5c1a6d1-330e-43ab-ae89-0371ae0cddaf" />
+
+### Terminal Demo
+<img width="1354" height="1078" alt="Terminal Demo" src="https://github.com/user-attachments/assets/20de3f1d-af78-48e3-8f63-ae44d28dd6b1" />
+
+---
 
 ## 🎯 Why This Project?
 
