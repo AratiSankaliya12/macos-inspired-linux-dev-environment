@@ -65,7 +65,8 @@ Instead of random customization, I asked:
 
 ## 🚀 Performance Highlights
 
-- Boot time optimized to ~21 seconds
+- Boot time optimized to ~20 seconds
+- Boot pipeline optimized (GRUB + systemd) for single-OS startup
 - Startup services audited with `systemd-analyze`
 - Login delay measured and corrected after GDM customization
 
