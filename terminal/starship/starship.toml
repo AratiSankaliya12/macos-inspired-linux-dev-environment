@@ -1,0 +1,52 @@
+# ============================================================
+# Starship Prompt Configuration
+# Minimal, fast, and distraction-free
+# ============================================================
+
+# Show username and directory on first line,
+# prompt character on second line
+format = "$username$directory\n$character"
+
+# ----------------------------
+# Version Control (Disabled)
+# ----------------------------
+# Git modules are disabled to keep the prompt
+# clean and fast for large repositories.
+
+[git_branch]
+disabled = true
+
+[git_status]
+disabled = true
+
+# ----------------------------
+# Prompt Character
+# ----------------------------
+[character]
+success_symbol = "[➜](bold #BB86FC)"
+error_symbol = "[✗](bold #CF6679)"
+vicmd_symbol = "[V](bold #03DAC5)"
+
+# ----------------------------
+# Username
+# ----------------------------
+[username]
+show_always = true
+style_user = "bold #D1B2FF"    # Lavender
+format = "[$user]($style) "
+
+# ----------------------------
+# Directory
+# ----------------------------
+[directory]
+style = "#9A00B6"              # Deep purple
+read_only = "🔒"
+truncation_length = 3
+truncation_symbol = "…/"
+format = "[$path]($style)[$read_only]($style) "
+
+# ----------------------------
+# Hostname (Disabled)
+# ----------------------------
+[hostname]
+disabled = true
