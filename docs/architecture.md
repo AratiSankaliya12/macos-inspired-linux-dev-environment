@@ -9,7 +9,7 @@ The architecture follows a **layered system model**, similar to production softw
 
 ## 🧠 Architectural Overview
 
-
+![System Architecture Diagram](../images/architecture-diagram.png)
 
 Each layer is **independent but cooperative**, allowing safe experimentation and long-term maintainability.
 
