@@ -1,4 +1,4 @@
-# macOS-Inspired Linux Developer Environment 💻
+# MacOS-Inspired Linux Developer Environment 💻
 
 Most people customize Linux. Very few engineer it.
 
