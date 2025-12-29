@@ -10,23 +10,28 @@ Screenshots are grouped by purpose to help reviewers quickly understand **what w
 
 These screenshots highlight the macOS-inspired visual design and desktop behavior.
 
-- `terminal-desktop-dock.png`  ( [Desktop layout with dock & terminal](terminal-desktop-dock.png) )  
+- `terminal-desktop-dock.png`  
+  → [Desktop layout with dock & terminal](terminal-desktop-dock.png)  
   → Overall desktop layout with dock-style workflow and terminal integration
 
 - `apps.png`  
-  → Application launcher view showing icon theme consistency
+  → [Application launcher view](apps.png)  
+  → Icon theme consistency across applications
 
 - `recent-activities.png`  
-  → GNOME activities overview with customized layout
+  → [GNOME activities overview](recent-activities.png)  
+  → Customized layout and workspace view
 
 - `notification-panel.png`  
-  → macOS-style notification panel appearance
+  → [Notification panel appearance](notification-panel.png)  
+  → macOS-style notification panel design
 
 - `login-screen.png`  
-  → Customized GDM login screen
+  → [Customized GDM login screen](login-screen.png)
 
 - `lockscreen.jpg`  
-  → Lock screen styling and visual identity
+  → [Lock screen styling](lockscreen.jpg)  
+  → Visual identity and lock-screen customization
 
 ---
 
@@ -35,13 +40,17 @@ These screenshots highlight the macOS-inspired visual design and desktop behavio
 These screenshots demonstrate real usage of modern command-line tools.
 
 - `bat-output.png`, `bat-output-scroll.png`  
+  → [bat syntax-highlighted output (view 1)](bat-output.png)  
+  → [bat syntax-highlighted output (scroll view)](bat-output-scroll.png)  
   → Syntax-highlighted file viewing using `bat`
 
 - `fd-output.png`  
+  → [fd fast file search output](fd-output.png)  
   → Fast and clean file search using `fd`
 
 - `rg-output.png`  
-  → High-performance recursive text search using `ripgrep (rg)`
+  → [ripgrep (rg) recursive search output](rg-output.png)  
+  → High-performance text search using `ripgrep (rg)`
 
 Each screenshot corresponds to a demo explained in the `demos/` directory.
 
@@ -51,5 +60,3 @@ Each screenshot corresponds to a demo explained in the `demos/` directory.
 
 Screenshots are provided for **visual validation only**.  
 Configuration files, scripts, and reproducible setup details are available in the main repository.
-
-
