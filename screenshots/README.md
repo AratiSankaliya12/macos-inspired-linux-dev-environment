@@ -10,7 +10,7 @@ Screenshots are grouped by purpose to help reviewers quickly understand **what w
 
 These screenshots highlight the macOS-inspired visual design and desktop behavior.
 
-- `terminal-desktop-dock.png`  
+- `terminal-desktop-dock.png`  ( [Desktop layout with dock & terminal](terminal-desktop-dock.png) )  
   → Overall desktop layout with dock-style workflow and terminal integration
 
 - `apps.png`  
