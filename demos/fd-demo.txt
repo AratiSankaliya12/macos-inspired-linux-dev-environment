@@ -1,0 +1,33 @@
+FD DEMO — Fast File Search
+=========================
+
+Tool: fd (replacement for find)
+
+Why fd?
+- Simpler syntax
+- Faster search
+- Respects .gitignore
+- Cleaner output
+
+Example usage:
+
+$ fd zsh
+
+Searches for:
+- Files or directories containing "zsh"
+- From current directory downward
+
+Advanced example:
+
+$ fd .zshrc ~
+
+Finds:
+- .zshrc file in home directory
+
+Comparison:
+- find → verbose and complex
+- fd → fast and intuitive
+
+Use case:
+- Navigating large projects
+- Finding config files quickly
