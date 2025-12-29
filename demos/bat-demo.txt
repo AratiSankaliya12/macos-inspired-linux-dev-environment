@@ -1,0 +1,28 @@
+BAT DEMO — Syntax-Highlighted File Viewing
+========================================
+
+Tool: bat (replacement for cat)
+
+Why bat?
+- Syntax highlighting
+- Line numbers
+- Git integration
+- Paging support
+
+Example usage:
+
+$ bat demos/bat-demo.txt
+
+What you observe:
+- Colored syntax and headings
+- Line numbers on the left
+- Easy scrolling for long files
+
+Comparison:
+- cat → plain text
+- bat → readable, developer-friendly output
+
+Use case:
+- Reading config files
+- Reviewing scripts
+- Inspecting logs safely
