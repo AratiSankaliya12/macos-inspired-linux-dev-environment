@@ -1,0 +1,33 @@
+RIPGREP (rg) DEMO — Fast Text Search
+===================================
+
+Tool: ripgrep (rg), replacement for grep
+
+Why rg?
+- Extremely fast
+- Searches recursively by default
+- Respects .gitignore
+- Clean, colored output
+
+Example usage:
+
+$ rg alias
+
+Searches:
+- All files for the word "alias"
+
+Example with file type:
+
+$ rg alias --type zsh
+
+Limits search to:
+- ZSH-related files only
+
+Comparison:
+- grep → slower, manual recursion
+- rg → fast, smart defaults
+
+Use case:
+- Searching codebases
+- Auditing configs
+- Debugging scripts
