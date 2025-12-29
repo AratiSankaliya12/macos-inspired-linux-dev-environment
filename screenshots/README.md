@@ -39,6 +39,14 @@ These screenshots highlight the macOS-inspired visual design and desktop behavio
 
 These screenshots demonstrate real usage of modern command-line tools.
 
+- `ls-output.png`  
+  → [Enhanced directory listing using `ls` alias](ls-output.png)  
+  → `ls` is aliased to `exa`, providing icons, colors, permissions, and improved readability
+
+- `exa-output.png`  
+  → [Plain directory listing output](exa-output.png)  
+  → Directory listing without enhanced visuals, highlighting the difference in configuration
+
 - `bat-output.png`, `bat-output-scroll.png`  
   → [bat syntax-highlighted output (view 1)](bat-output.png)  
   → [bat syntax-highlighted output (scroll view)](bat-output-scroll.png)  
