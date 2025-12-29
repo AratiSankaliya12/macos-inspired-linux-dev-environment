@@ -40,7 +40,7 @@ These screenshots highlight the macOS-inspired visual design and desktop behavio
 These screenshots demonstrate real usage of modern command-line tools.
 
 - `ls-output.png`  
-  → [Enhanced directory listing using `ls` alias](ls-output.png)  
+  → [Enhanced directory listing using `ls` alias](ls-output.jpg)  
   → `ls` is aliased to `exa`, providing icons, colors, permissions, and improved readability
 
 - `exa-output.png`  
