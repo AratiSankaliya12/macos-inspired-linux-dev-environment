@@ -41,11 +41,13 @@ Instead of random customization, I asked:
 - `fd` → fast file search
 - `ripgrep` → high-performance text search
 
-**System UI**
-- WhiteSur GTK theme (macOS-style)
-- Rounded corners, left-side window controls
-- Transparent & blurred GNOME top bar
-- Dash-to-Dock configured for macOS-like behavior
+**System UI Components Used**
+- **GTK Theme**: WhiteSur GTK for macOS-style window design, Rounded corners, left-side window controls
+- **Icon Theme**: WhiteSur icon theme for consistent application icons
+- **Cursor Theme**: Capitaine cursors for polished pointer aesthetics
+- **Dock & Window Behavior**: Dash-to-Dock configured for macOS-like behavior
+- **Fonts**: San Francisco Pro–inspired fonts for visual consistency
+- **Shell & Visual Enhancements**: Blur and transparency applied only where performance-safe (GNOME top bar)
 
 **Safety & Reliability**
 - TimeShift snapshots
